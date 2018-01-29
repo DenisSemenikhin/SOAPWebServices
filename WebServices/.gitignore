@@ -1,0 +1,8 @@
+# NPM specific
+node_modules/
+*.log
+
+/_demo/*
+/.idea/*
+/target/*
+*.iml
